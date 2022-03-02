@@ -1,5 +1,5 @@
 # node-get-uk-train-times
-Node-red function code that uses my uk-trains repo (https://github.com/adamadavidson/uk-trains), which is forked from the matt-parrish/uk-trains node module
+Node-red function code that uses my [uk-trains repo](https://github.com/adamadavidson/uk-trains), which is forked from the matt-parrish/uk-trains node module
 
 This repository has the code for 2 Node Red functions nodes - these have been written very much for my particular requirements, but can be adapted to suit.
 
